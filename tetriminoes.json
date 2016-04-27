@@ -1,0 +1,130 @@
+{
+    "tetriminoes": [
+        {
+            "name": "Tetrimino2DI",
+            "color": "cyan",
+            "points": [
+                {
+                    "coordinates": [0, 0]
+                },
+                {
+                    "coordinates": [0, 1]
+                },
+                {
+                    "coordinates": [0, 2]
+                },
+                {
+                    "coordinates": [0, 3]
+                }
+            ]
+        },
+        {
+            "name": "Tetrimino2DJ",
+            "color": "blue",
+            "points": [
+                {
+                    "coordinates": [0, 0]
+                },
+                {
+                    "coordinates": [1, 0]
+                },
+                {
+                    "coordinates": [1, 1]
+                },
+                {
+                    "coordinates": [1, 2]
+                }
+            ]
+        },
+        {
+            "name": "Tetrimino2DL",
+            "color": "orange",
+            "points": [
+                {
+                    "coordinates": [0, 2]
+                },
+                {
+                    "coordinates": [1, 0]
+                },
+                {
+                    "coordinates": [1, 1]
+                },
+                {
+                    "coordinates": [1, 2]
+                }
+            ]
+        },
+        {
+            "name": "Tetrimino2DO",
+            "color": "yellow",
+            "points": [
+                {
+                    "coordinates": [0, 0]
+                },
+                {
+                    "coordinates": [0, 1]
+                },
+                {
+                    "coordinates": [1, 0]
+                },
+                {
+                    "coordinates": [1, 1]
+                }
+            ]
+        },
+        {
+            "name": "Tetrimino2DS",
+            "color": "green",
+            "points": [
+                {
+                    "coordinates": [0, 1]
+                },
+                {
+                    "coordinates": [0, 2]
+                },
+                {
+                    "coordinates": [1, 0]
+                },
+                {
+                    "coordinates": [1, 1]
+                }
+            ]
+        },
+        {
+            "name": "Tetrimino2DT",
+            "color": "magenta",
+            "points": [
+                {
+                    "coordinates": [0, 1]
+                },
+                {
+                    "coordinates": [1, 0]
+                },
+                {
+                    "coordinates": [1, 1]
+                },
+                {
+                    "coordinates": [1, 2]
+                }
+            ]
+        },
+        {
+            "name": "Tetrimino2DZ",
+            "color": "red",
+            "points": [
+                {
+                    "coordinates": [0, 0]
+                },
+                {
+                    "coordinates": [0, 1]
+                },
+                {
+                    "coordinates": [1, 1]
+                },
+                {
+                    "coordinates": [1, 2]
+                }
+            ]
+        }
+    ]
+}
